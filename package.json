@@ -1,0 +1,30 @@
+{
+	"name": "material-extreme",
+	"displayName": "Material Extreme",
+	"description": "Another Material Theme",
+	"version": "0.0.1",
+	"publisher": "rwatts3",
+	"author": {
+		"name": "Ryan Watts",
+		"url": "https://github.com/rwatts3"
+	},
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"readme": "README.md",
+	"galleryBanner": {
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material Extreme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Material Extreme-color-theme.json"
+			}
+		]
+	}
+}
