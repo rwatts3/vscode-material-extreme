@@ -6,7 +6,7 @@
 	"publisher": "rwatts3",
 	"author": {
 		"name": "Ryan Watts",
-		"url": "https://github.com/rwatts3"
+		"url": "https://github.com/rwatts3/vscode-material-extreme"
 	},
 	"engines": {
 		"vscode": "^1.12.0"
